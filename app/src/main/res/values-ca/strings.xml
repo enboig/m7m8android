@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="b_add">Suma</string>
+    <string name="b_sub">Resta</string>
+    <string name="b_increase">Incrementa</string>
+    <string name="b_decrease">Decrementa</string>
+    <string name="b_hide">Amaga</string>
+    <string name="b_show">Mostra</string>
+    <string name="b_color">Color Text</string>
+    <string name="b_background">Color Fons</string>
+    <string name="resultat">0</string>
+</resources>
