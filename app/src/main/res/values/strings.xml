@@ -8,4 +8,5 @@
     <string name="b_show">Show</string>
     <string name="b_color">Color text</string>
     <string name="b_background">Background color</string>
+    <string name="resultat">0</string>
 </resources>
