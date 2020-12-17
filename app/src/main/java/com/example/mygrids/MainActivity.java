@@ -51,9 +51,9 @@ public class MainActivity extends AppCompatActivity {
             }
         });
 
-        findViewById(R.id.b_hide).setOnClickListener((View v) -> texte.setVisibility(v.INVISIBLE));
+        findViewById(R.id.b_hide).setOnClickListener((View v) -> texte.setVisibility(View.INVISIBLE));
 
-        findViewById(R.id.b_show).setOnClickListener((View v) ->    texte.setVisibility(v.VISIBLE));
+        findViewById(R.id.b_show).setOnClickListener((View v) -> texte.setVisibility(View.VISIBLE));
 
         findViewById(R.id.b_color).setOnClickListener((View v) -> {
             Random rnd = new Random();
